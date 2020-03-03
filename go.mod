@@ -1,4 +1,4 @@
-module words-detector
+module prohibited-words-detector
 
 go 1.12
 
